@@ -4,6 +4,8 @@ There are an incredible amount of Javascript frameworks and meta-frameworks to l
 
 **Next.js is incredible in its simplicity and flexibility;** there are less prescriptive guiderails placed on developers in the implementation of an app or site. 
 
+![](https://i.ibb.co/Zh5yjcQ/localhost-3000-blog-starting-with-cbytes-Laptop-with-Hi-DPI-screen-1.png)
+
 ## Clone the starter
 
 ``` javascript
