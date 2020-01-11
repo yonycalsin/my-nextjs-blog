@@ -11,6 +11,15 @@ export default function Header(props) {
         <Link href="/">
           <h1>{props.siteTitle}</h1>
         </Link>
+        <div>
+          <Link href={`${typeof window !== "undefined" &&
+          window.location.pathname == "/info" ?
+          "/" : "/info"}`}>
+            <h1>{`${typeof window !== "undefined" &&
+          window.location.pathname == "/info" ?
+          "close" : "info"}`}</h1>
+          </Link>
+        </div>
       </nav>
       <style jsx>
         {`
@@ -50,4 +59,3 @@ export default function Header(props) {
     </header>
   );
 }
-
