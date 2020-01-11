@@ -1,4 +1,4 @@
-# Bare-bones Nextjs starter
+# My NextJs Blog Started
 
 There are an incredible amount of Javascript frameworks and meta-frameworks to learn. With React, two of the most common metaframeworks of the moment are Next.js, made by Zeit, and Gatsby.
 
